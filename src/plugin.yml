@@ -1,0 +1,6 @@
+  name: BungeeMsg
+  main: fr.mathip.msg.Main
+  version: 1.0
+  commands:
+    msg:
+    r:

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="bungeemsg:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bungeemsg_jar</output-path>
+    <root id="root">
+      <element id="archive" name="bungeemsg.jar">
+        <element id="module-output" name="bungeemsg" />
+      </element>
+    </root>
+  </artifact>
+</component>
